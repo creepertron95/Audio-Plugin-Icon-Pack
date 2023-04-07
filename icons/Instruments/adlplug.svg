@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24px"
+   height="24px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="adlplug.svg">
+  <defs
+     id="defs1125">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1763"
+       id="linearGradient1573-6-4"
+       x1="12"
+       y1="2"
+       x2="12"
+       y2="22"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1,0,0,1.1,-26.2,-1.2000002)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1763">
+      <stop
+         style="stop-color:#4478a6;stop-opacity:1"
+         offset="0"
+         id="stop1759" />
+      <stop
+         style="stop-color:#345c7f;stop-opacity:1"
+         offset="1"
+         id="stop1761" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.166666"
+     inkscape:cx="9.6912442"
+     inkscape:cy="11.882488"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1723" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3786"
+       transform="translate(25)">
+      <rect
+         ry="4"
+         y="1"
+         x="-24"
+         height="22"
+         width="22"
+         id="rect1560-7-3"
+         style="opacity:1;vector-effect:none;fill:url(#linearGradient1573-6-4);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect1558-6-7"
+         d="m -20,0.99999972 c -2.216,0 -4,1.78400008 -4,4.00000008 V 19 c 0,2.216001 1.784,4.000001 4,4.000001 h 14 c 2.216,0 4,-1.784 4,-4.000001 V 4.9999998 c 0,-2.216 -1.784,-4.00000008 -4,-4.00000008 z m 0,1.00000008 h 14 c 1.662,0 3,1.338 3,3 V 19 c 0,1.662001 -1.338,3.000001 -3,3.000001 h -14 c -1.662,0 -3,-1.338 -3,-3.000001 V 4.9999998 c 0,-1.662 1.338,-3 3,-3 z"
+         style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:#72efec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 8 C 4 8 4 10 4 10 L 4 16 L 6 16 L 6 14 L 7 14 L 7 16 L 9 16 L 9 10 C 9 10 9 8 7 8 L 6 8 z M 10 8 L 10 16 L 13 16 C 13 16 15 16 15 14 L 15 10 C 15 8 13 8 13 8 L 10 8 z M 16 8 L 16 14 L 16 16 L 20 16 L 20 14 L 18 14 L 18 8 L 16 8 z M 6 10 L 7 10 L 7 12 L 6 12 L 6 10 z M 12 10 L 13 10 L 13 14 L 12 14 L 12 10 z "
+       id="rect828" />
+  </g>
+</svg>

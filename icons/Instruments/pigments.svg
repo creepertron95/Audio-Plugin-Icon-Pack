@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24px"
+   height="24px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="pigments.svg">
+  <defs
+     id="defs1125" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="89.53283"
+     inkscape:cx="4.9489532"
+     inkscape:cy="6.4249179"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1723" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#4275cd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 5 12 C 3.5094926 12 2.1328115 12.463897 1 13.251953 L 1 19 C 1 21.216 2.784 23 5 23 L 10.748047 23 C 11.536103 21.867189 12 20.490507 12 19 C 12 15.122 8.878 12 5 12 z "
+       id="rect849-3" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffd133;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.15384614;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 5 1 C 2.784 1 1 2.784 1 5 L 1 11.597656 C 2.3679531 13.073572 4.3196313 14 6.5 14 C 10.655 14 14 10.655 14 6.5 C 14 4.3196313 13.073572 2.3679531 11.597656 1 L 5 1 z "
+       id="rect845" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#339787;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07142854;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 16.5 12 C 12.345 12 9 15.345 9 19.5 C 9 20.766643 9.3133818 21.955724 9.8632812 23 L 19 23 C 21.216 23 23 21.216 23 19 L 23 15.757812 C 21.707469 13.510668 19.288667 12 16.5 12 z "
+       id="rect849" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#9e7be0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 23 8 C 20.784 8 19 9.784 19 12 C 19 14.216 20.784 16 23 16 L 23 8 z "
+       id="rect866-1" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ec5c55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.08333337;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 15.039062 1 C 13.212958 2.1482999 12 4.1746758 12 6.5 C 12 10.101 14.899 13 18.5 13 C 20.252083 13 21.833354 12.308984 23 11.189453 L 23 5 C 23 2.784 21.216 1 19 1 L 15.039062 1 z "
+       id="rect847" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#f59b44;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 9.1386719 1 C 9.0561689 1.3209985 9 1.65255 9 2 C 9 4.216 10.784 6 13 6 C 15.216 6 17 4.216 17 2 C 17 1.65255 16.943831 1.3209985 16.861328 1 L 9.1386719 1 z "
+       id="rect866" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#87f58b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect866-1-8"
+       width="8"
+       height="8"
+       x="10"
+       y="9"
+       ry="4" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#7a50c9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 1 9 L 1 17 C 3.216 17 5 15.216 5 13 C 5 10.784 3.216 9 1 9 z "
+       id="rect866-1-8-0" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 5,0.99999976 c -2.216,0 -4,1.78400004 -4,4.00000004 V 19 c 0,2.216 1.784,4 4,4 h 14 c 2.216,0 4,-1.784 4,-4 V 4.9999998 c 0,-2.216 -1.784,-4.00000004 -4,-4.00000004 z M 5,1.9999998 h 14 c 1.662,0 3,1.338 3,3 V 19 c 0,1.662 -1.338,3 -3,3 H 5 C 3.338,22 2,20.662 2,19 V 4.9999998 c 0,-1.662 1.338,-3 3,-3 z"
+       id="rect1558-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff98d7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect969"
+       width="8"
+       height="8"
+       x="3"
+       y="11"
+       ry="4" />
+    <path
+       style="opacity:0.45;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 7 4 L 7 9.5 L 7 20 L 12 20 L 12 14.976562 C 12.164723 14.991283 12.331321 15 12.5 15 C 15.547 15 18 12.547 18 9.5 C 18 6.453 15.547 4 12.5 4 C 12.331321 4 12.164723 4.0087178 12 4.0234375 L 12 4 L 7 4 z M 12 9 L 12.5 9 C 12.777 9 13 9.223 13 9.5 C 13 9.777 12.777 10 12.5 10 L 12 10 L 12 9.5 L 12 9 z "
+       id="rect985" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 8,5 c 0,4.6666667 0,9.333333 0,14 h 3 v -5 h 1.5 C 14.993,14 17,11.993 17,9.5 17,7.007 14.993,5 12.5,5 11,5 9.5,5 8,5 Z m 3,3 h 1.5 C 13.331,8 14,8.669 14,9.5 14,10.331 13.331,11 12.5,11 H 11 V 9.5 Z"
+       id="rect832"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsscccsssccc" />
+  </g>
+</svg>
