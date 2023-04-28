@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="640" src="https://github.com/creepertron95/Audio-Plugin-Icon-Pack/raw/master/preview.png"/>
+  <img width="640" src="https://github.com/creepertron95/Audio-Plugin-Icon-Pack/raw/main/preview.png"/>
 <p align="center">Icon pack for audio plugins.</p>
  
 ## Requests
