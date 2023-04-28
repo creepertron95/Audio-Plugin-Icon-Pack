@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="xhip.svg">
+   sodipodi:docname="e-mu-proteus-vx.svg">
   <defs
      id="defs1125">
     <linearGradient
@@ -33,11 +33,11 @@
        inkscape:collect="always"
        id="linearGradient1763">
       <stop
-         style="stop-color:#6d6d71;stop-opacity:1"
+         style="stop-color:#3bc1e1;stop-opacity:1"
          offset="0"
          id="stop1759" />
       <stop
-         style="stop-color:#4e4e4e;stop-opacity:1"
+         style="stop-color:#3978c6;stop-opacity:1"
          offset="1"
          id="stop1761" />
     </linearGradient>
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.383208"
-     inkscape:cx="9.2840287"
-     inkscape:cy="11.391548"
+     inkscape:zoom="38.360543"
+     inkscape:cx="12.212529"
+     inkscape:cy="11.414266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,15 +96,26 @@
        id="rect1558-6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#76b0f4;stroke:#76b0f4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-       d="M 6,19 10,12 6,5 h 3 l 3,7 -3,7 z"
-       id="path832"
+       style="opacity:1;vector-effect:none;fill:#2a2a2a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6,6 C 4.892,6 4,6.892 4,8 v 3 7 h 5 v -5 h 6 4 1 V 8 C 20,8 20,6 18,6 13.653037,6 9.8766116,6 6,6 Z m 4,2 h 4 c 0,0 1,0 1,1 v 2 H 9 V 9 C 9,9 9,8 10,8 Z"
+       id="rect821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccscscccs" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,14 h 1 l 1.5,3 1.5,-3 h 1 l -2,4 h -1 z"
+       id="path825"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16,14 h 1 l 3,4 h -1 z"
+       id="path827"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14,12 1,-4 h 3 l -2,4 2,4 h -3 z"
-       id="path834"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16,18 3,-4 h 1 l -3,4 z"
+       id="path829"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

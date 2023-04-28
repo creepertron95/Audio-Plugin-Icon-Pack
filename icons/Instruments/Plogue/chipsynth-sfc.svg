@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="xhip.svg">
+   sodipodi:docname="chipsynth-sfc.svg">
   <defs
      id="defs1125">
     <linearGradient
@@ -33,11 +33,11 @@
        inkscape:collect="always"
        id="linearGradient1763">
       <stop
-         style="stop-color:#6d6d71;stop-opacity:1"
+         style="stop-color:#d4d4d6;stop-opacity:1"
          offset="0"
          id="stop1759" />
       <stop
-         style="stop-color:#4e4e4e;stop-opacity:1"
+         style="stop-color:#b9b9b9;stop-opacity:1"
          offset="1"
          id="stop1761" />
     </linearGradient>
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.383208"
-     inkscape:cx="9.2840287"
-     inkscape:cy="11.391548"
+     inkscape:zoom="108.5"
+     inkscape:cx="13.738568"
+     inkscape:cy="11.414266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -91,20 +91,29 @@
        y="0.99999976"
        ry="4" />
     <path
+       style="fill:#ff7373;fill-opacity:1;stroke:none;stroke-width:1.75000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16 1 L 13 4 L 13 6 L 15 6 L 18 9 L 18 11 L 20 11 L 23 8 L 23 5 C 23 2.784 21.216 1 19 1 L 16 1 z "
+       id="path861-3" />
+    <path
+       style="fill:#98adff;fill-opacity:1;stroke:none;stroke-width:1.75000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5 1 C 2.784 1 1 2.784 1 5 L 1 8 L 4 11 L 6 11 L 6 9 L 9 6 L 11 6 L 11 4 L 8 1 L 5 1 z "
+       id="path861" />
+    <path
+       style="fill:#75ffa3;fill-opacity:1;stroke:none;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1 13 L 1 19 C 1 21.216 2.784 23 5 23 L 7 23 L 11 19 L 11 17 L 7 13 L 1 13 z "
+       id="path863" />
+    <path
+       style="fill:#fff970;fill-opacity:1;stroke:none;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17 13 L 13 17 L 13 19 L 17 23 L 19 23 C 21.216 23 23 21.216 23 19 L 23 13 L 17 13 z "
+       id="path863-4" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 8 C 4.892 8 4 8.892 4 10 L 4 14 C 4 15.108 4.892 16 6 16 L 10 16 L 12 16 L 13 16 L 18 16 C 18 16 20 16 20 14 L 20 13 C 20 11 18 11 18 11 L 14 11 L 14 10 L 20 10 L 20 8 L 14 8 C 14 8 12 8 12 10 L 12 11 C 12 13 14 13 14 13 L 18 13 L 18 14 L 13 14 L 12 14 L 7 14 C 6.446 14 6 13.554 6 13 L 6 11 C 6 10.446 6.446 10 7 10 L 11 10 L 11 8 L 6 8 z "
+       id="rect821" />
+    <path
        style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        d="m 5,0.99999976 c -2.216,0 -4,1.78400004 -4,4.00000004 V 19 c 0,2.216 1.784,4 4,4 h 14 c 2.216,0 4,-1.784 4,-4 V 4.9999998 c 0,-2.216 -1.784,-4.00000004 -4,-4.00000004 z M 5,1.9999998 h 14 c 1.662,0 3,1.338 3,3 V 19 c 0,1.662 -1.338,3 -3,3 H 5 C 3.338,22 2,20.662 2,19 V 4.9999998 c 0,-1.662 1.338,-3 3,-3 z"
        id="rect1558-6"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:#76b0f4;stroke:#76b0f4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-       d="M 6,19 10,12 6,5 h 3 l 3,7 -3,7 z"
-       id="path832"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14,12 1,-4 h 3 l -2,4 2,4 h -3 z"
-       id="path834"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

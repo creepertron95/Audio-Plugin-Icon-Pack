@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="xhip.svg">
+   sodipodi:docname="poizone.svg">
   <defs
      id="defs1125">
     <linearGradient
@@ -33,11 +33,11 @@
        inkscape:collect="always"
        id="linearGradient1763">
       <stop
-         style="stop-color:#6d6d71;stop-opacity:1"
+         style="stop-color:#4d5fd8;stop-opacity:1"
          offset="0"
          id="stop1759" />
       <stop
-         style="stop-color:#4e4e4e;stop-opacity:1"
+         style="stop-color:#443b85;stop-opacity:1"
          offset="1"
          id="stop1761" />
     </linearGradient>
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.383208"
-     inkscape:cx="9.2840287"
-     inkscape:cy="11.391548"
+     inkscape:zoom="16.258277"
+     inkscape:cx="3.589956"
+     inkscape:cy="10.93456"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -91,20 +91,28 @@
        y="0.99999976"
        ry="4" />
     <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 9 4 C 7.892 4 7 4.892 7 6 L 7 18 C 7 19.108 7.892 20 9 20 L 11 20 L 11 18 L 10 18 C 9.446 18 9 17.554 9 17 L 9 7 C 9 6.446 9.446 6 10 6 L 11 6 L 11 4 L 9 4 z M 13 4 L 13 6 L 14 6 C 14.554 6 15 6.446 15 7 L 15 17 C 15 17.554 14.554 18 14 18 L 13 18 L 13 20 L 15 20 C 16.108 20 17 19.108 17 18 L 17 6 C 17 4.892 16.108 4 15 4 L 13 4 z "
+       id="rect873" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.76383424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect871"
+       width="2"
+       height="8"
+       x="11"
+       y="8" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#232950;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 1 8 L 1 10 L 3 10 L 3 14 L 1 14 L 1 16 L 3 16 C 4.108 16 5 15.108 5 14 L 5 10 C 5 8.892 4.108 8 3 8 L 1 8 z "
+       id="rect821" />
+    <path
+       style="fill:#232950;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19 8 L 19 10 L 23 10 L 23 8 L 19 8 z M 23 10 L 19 14 L 19 16 L 23 16 L 23 14 L 23 10 z "
+       id="path826" />
+    <path
        style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        d="m 5,0.99999976 c -2.216,0 -4,1.78400004 -4,4.00000004 V 19 c 0,2.216 1.784,4 4,4 h 14 c 2.216,0 4,-1.784 4,-4 V 4.9999998 c 0,-2.216 -1.784,-4.00000004 -4,-4.00000004 z M 5,1.9999998 h 14 c 1.662,0 3,1.338 3,3 V 19 c 0,1.662 -1.338,3 -3,3 H 5 C 3.338,22 2,20.662 2,19 V 4.9999998 c 0,-1.662 1.338,-3 3,-3 z"
        id="rect1558-6"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:#76b0f4;stroke:#76b0f4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-       d="M 6,19 10,12 6,5 h 3 l 3,7 -3,7 z"
-       id="path832"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 14,12 1,-4 h 3 l -2,4 2,4 h -3 z"
-       id="path834"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
